@@ -1,0 +1,30 @@
+
+h1 {
+    color: brown;
+}
+
+/* {
+    border: solid;
+}
+*/
+.header {
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+}
+
+.Grid {
+    background-color: chartreuse;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+}
+
+p,h2 {
+    text-align: center;
+}
